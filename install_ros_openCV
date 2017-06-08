@@ -1,0 +1,11 @@
+sudo   apt-get    install  ros-indigo-openni-*
+sudo   apt-get    install  ros-indigo-openni2-* 
+sudo   apt-get    install  ros-indigo-freenect-*
+sudo   apt-get    install  ros-indigo-vision-opencv
+sudo   apt-get    install  libopencv-dev
+sudo   apt-get    install  python-opencv
+rospack   profile 
+
+
+
+
